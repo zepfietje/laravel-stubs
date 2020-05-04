@@ -1,0 +1,40 @@
+{
+    "name": "zepfietje/laravel-stubs",
+    "description": "Clean versions of the stubs shipped with Laravel.",
+    "keywords": [
+        "laravel",
+        "stubs"
+    ],
+    "homepage": "https://github.com/zepfietje/laravel-stubs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zep Fietje",
+            "homepage": "https://zepfietje.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4",
+        "laravel/framework": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "ZepFietje\\Stubs\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ZepFietje\\Stubs\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ZepFietje\\Stubs\\StubServiceProvider"
+            ]
+        }
+    }
+}
