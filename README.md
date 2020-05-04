@@ -19,7 +19,7 @@ Modifications include:
 2. Add the following hook to the scripts in `composer.json` to keep your stubs in sync with updates to this package.
    ```
    "post-update-cmd": [
-       "@php artisan stub:publish"
+       "@php artisan stub:publish --force"
    ],
    ```
 3. Publish the stubs.
