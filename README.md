@@ -20,7 +20,7 @@ Modifications include:
    ```
    "post-update-cmd": [
        "@php artisan stub:publish --force"
-   ],
+   ]
    ```
 3. Publish the stubs.
    ```console
