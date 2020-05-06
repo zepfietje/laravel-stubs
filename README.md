@@ -3,7 +3,7 @@
 # Laravel Stubs
 
 This package contains clean versions of the stubs shipped with Laravel.  
-Modifications include:
+Most notably:
 
 - Type declarations are used instead of DocBlocks.
 - Migrations don't have a `down` method.
