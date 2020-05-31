@@ -14,7 +14,7 @@ Most notably:
 
 ## Installation
 
-1. Install the package.
+1. Install this package.
    ```console
    $ composer require zepfietje/laravel-stubs --dev
    ```
