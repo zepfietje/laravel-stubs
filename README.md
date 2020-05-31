@@ -1,3 +1,5 @@
+[![Packagist Version](https://img.shields.io/packagist/v/zepfietje/laravel-stubs)](https://packagist.org/packages/zepfietje/laravel-stubs)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/zepfietje/laravel-stubs)](https://packagist.org/packages/zepfietje/laravel-stubs/stats)
 [![Starware](https://img.shields.io/badge/Starware-%E2%AD%90-black?labelColor=%23f9b00d)](https://github.com/zepfietje/starware)
 
 # Laravel Stubs
