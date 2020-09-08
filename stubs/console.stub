@@ -15,7 +15,8 @@ class {{ class }} extends Command
         parent::__construct();
     }
 
-    public function handle()
+    public function handle(): int
     {
+        return 0;
     }
 }
