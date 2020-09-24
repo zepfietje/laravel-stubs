@@ -8,10 +8,4 @@ use Tests\TestCase;
 
 class {{ class }} extends TestCase
 {
-    public function testExample(): void
-    {
-        $response = $this->get('/');
-
-        $response->assertStatus(200);
-    }
 }

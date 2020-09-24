@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0] - 2020-09-24
+
+### Changed
+
+- Update test stub.
+- Update unit test stub.
+
 ## [2.0.1] - 2020-09-10
 
 ### Fixed
@@ -38,6 +45,7 @@
 
 - Customized stubs.
 
+[2.1.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.1.0
 [2.0.1]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.0.1
 [2.0.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.0.0
 [1.1.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/1.1.0
