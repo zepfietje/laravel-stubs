@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.2.0] - 2020-10-21
+
+### Added
+
+- Make model attributes unguarded.
+
 ## [2.1.0] - 2020-09-24
 
 ### Changed
@@ -45,6 +51,7 @@
 
 - Customized stubs.
 
+[2.2.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.2.0
 [2.1.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.1.0
 [2.0.1]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.0.1
 [2.0.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.0.0

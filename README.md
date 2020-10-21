@@ -8,9 +8,10 @@ This package contains clean versions of the stubs shipped with Laravel.
 Most notably:
 
 - Type declarations are used instead of DocBlocks.
-- Migrations don't have a `down` method.
-- Form requests don't have an `authorize` method.
 - Controllers don't extend a base controller.
+- Migrations don't have a `down` method.
+- Model attributes aren't guarded.
+- Form requests don't have an `authorize` method.
 
 ## Installation
 
