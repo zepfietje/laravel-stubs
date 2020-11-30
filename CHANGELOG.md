@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.3.0] - 2020-11-30
+
+### Added
+
+- PHP 8 support.
+
 ## [2.2.0] - 2020-10-21
 
 ### Added
@@ -51,6 +57,7 @@
 
 - Customized stubs.
 
+[2.3.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.3.0
 [2.2.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.2.0
 [2.1.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.1.0
 [2.0.1]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.0.1
