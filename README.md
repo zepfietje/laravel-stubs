@@ -9,7 +9,6 @@ Most notably:
 
 - Type declarations are used instead of DocBlocks.
 - Controllers don't extend a base controller.
-- Migrations don't have a `down` method.
 - Model attributes aren't guarded.
 - Form requests don't have an `authorize` method.
 
