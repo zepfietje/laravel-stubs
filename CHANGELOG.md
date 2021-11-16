@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.4.0] - 2021-11-16
+
+### Changed
+
+- Update migration stubs to use anonymous migrations.
+
 ## [2.3.0] - 2020-11-30
 
 ### Added
@@ -57,6 +63,7 @@
 
 - Customized stubs.
 
+[2.4.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.4.0
 [2.3.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.3.0
 [2.2.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.2.0
 [2.1.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.1.0
