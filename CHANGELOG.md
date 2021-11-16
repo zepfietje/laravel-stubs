@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.5.0] - 2021-11-16
+
+### Added
+
+- Cast stub.
+- Event stub.
+- Mail stub.
+- Markdown mail stub.
+- Notification stub.
+- Markdown notification stub.
+- Observer stub.
+- Plain observer stub.
+- Service provider stub.
+
+### Changed
+
+- Update migration stubs to include down method.
+
 ## [2.4.0] - 2021-11-16
 
 ### Changed
@@ -63,6 +81,7 @@
 
 - Customized stubs.
 
+[2.5.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.5.0
 [2.4.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.4.0
 [2.3.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.3.0
 [2.2.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.2.0
