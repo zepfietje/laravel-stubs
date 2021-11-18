@@ -14,6 +14,7 @@
 - Add return type declarations to policy stub.
 - Add type declarations to resource collection stub.
 - Add type declarations to resource stub.
+- Update rule stub type declarations.
 
 ## [2.5.0] - 2021-11-16
 

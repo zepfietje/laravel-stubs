@@ -2,15 +2,15 @@
 
 namespace {{ namespace }};
 
-use Illuminate\Contracts\Validation\Rule;
+use Illuminate\Contracts\Validation\{{ ruleType }};
 
-class {{ class }} implements Rule
+class {{ class }} implements {{ ruleType }}
 {
     public function __construct()
     {
     }
 
-    public function passes($attribute, $value): bool
+    public function passes(string $attribute, mixed $value): bool
     {
     }
 
