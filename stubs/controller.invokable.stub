@@ -3,10 +3,11 @@
 namespace {{ namespace }};
 
 use Illuminate\Http\Request;
+use Illuminate\Http\Response;
 
 class {{ class }}
 {
-    public function __invoke(Request $request)
+    public function __invoke(Request $request): Response
     {
     }
 }

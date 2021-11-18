@@ -5,6 +5,7 @@
 ### Changed
 
 - Update console stub handle method return value.
+- Update controller stubs type declarations.
 
 ## [2.5.0] - 2021-11-16
 
