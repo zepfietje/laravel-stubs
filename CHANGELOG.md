@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+### Changed
+
+- Update console stub handle method return value.
+
 ## [2.5.0] - 2021-11-16
 
 ### Added

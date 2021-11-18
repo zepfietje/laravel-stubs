@@ -17,6 +17,6 @@ class {{ class }} extends Command
 
     public function handle(): int
     {
-        return 0;
+        return Command::SUCCESS;
     }
 }
