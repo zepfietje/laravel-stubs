@@ -6,6 +6,7 @@
 
 - Update console stub handle method return value.
 - Update controller stubs type declarations.
+- Remove factory stub model definition.
 
 ## [2.5.0] - 2021-11-16
 
