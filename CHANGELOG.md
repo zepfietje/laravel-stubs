@@ -12,6 +12,7 @@
 - Add type declarations to middleware stub.
 - Add method calls to down method in create and update migration stubs.
 - Add return type declarations to policy stub.
+- Add type declarations to resource collection stub.
 
 ## [2.5.0] - 2021-11-16
 
