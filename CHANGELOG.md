@@ -8,6 +8,7 @@
 - Update controller stubs type declarations.
 - Remove factory stub model definition.
 - Add `ShouldBeUnique` import to queued job stub.
+- Remove `Queueable` trait from job stub.
 
 ## [2.5.0] - 2021-11-16
 
