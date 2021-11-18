@@ -10,6 +10,7 @@
 - Add `ShouldBeUnique` import to queued job stub.
 - Remove `Queueable` trait from job stub.
 - Add type declarations to middleware stub.
+- Add method calls to down method in create and update migration stubs.
 
 ## [2.5.0] - 2021-11-16
 
