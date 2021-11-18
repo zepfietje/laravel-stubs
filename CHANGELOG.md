@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## [2.6.0] - 2021-11-18
 
 ### Changed
 
@@ -97,6 +97,7 @@
 
 - Customized stubs.
 
+[2.6.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.6.0
 [2.5.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.5.0
 [2.4.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.4.0
 [2.3.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.3.0
