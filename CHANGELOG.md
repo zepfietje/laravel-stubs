@@ -9,6 +9,7 @@
 - Remove factory stub model definition.
 - Add `ShouldBeUnique` import to queued job stub.
 - Remove `Queueable` trait from job stub.
+- Add type declarations to middleware stub.
 
 ## [2.5.0] - 2021-11-16
 

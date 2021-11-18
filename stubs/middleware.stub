@@ -3,10 +3,11 @@
 namespace {{ namespace }};
 
 use Closure;
+use Illuminate\Http\Request;
 
 class {{ class }}
 {
-    public function handle($request, Closure $next)
+    public function handle(Request $request, Closure $next): mixed
     {
         return $next($request);
     }
