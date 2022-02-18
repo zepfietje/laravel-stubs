@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.0.0] - 2022-02-18
+
+### Added
+
+- Laravel 9 support.
+
 ## [2.6.0] - 2021-11-18
 
 ### Changed
