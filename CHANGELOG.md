@@ -103,6 +103,7 @@
 
 - Customized stubs.
 
+[3.0.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/3.0.0
 [2.6.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.6.0
 [2.5.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.5.0
 [2.4.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.4.0
