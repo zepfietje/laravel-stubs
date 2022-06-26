@@ -2,8 +2,8 @@
 
 namespace {{ namespace }};
 
-use Illuminate\Auth\Access\HandlesAuthorization;
 use {{ namespacedUserModel }};
+use Illuminate\Auth\Access\HandlesAuthorization;
 
 class {{ class }}
 {
