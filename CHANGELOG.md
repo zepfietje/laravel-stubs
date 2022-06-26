@@ -14,6 +14,7 @@
 - Add `authorize` method to request stub.
 - Specify response type in middleware stub.
 - Sort imports.
+- Add placeholder for seeder namespace.
 
 ## [3.1.0] - 2022-06-26
 
