@@ -8,6 +8,10 @@
 - Scope stub.
 - View component stub.
 
+### Changed
+
+- Update console stub.
+
 ## [3.1.0] - 2022-06-26
 
 ### Changed
