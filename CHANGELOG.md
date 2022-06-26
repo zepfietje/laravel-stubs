@@ -5,6 +5,7 @@
 ### Added
 
 - Inbound cast stub.
+- Scope stub.
 
 ## [3.1.0] - 2022-06-26
 
