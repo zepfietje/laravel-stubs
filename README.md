@@ -17,7 +17,7 @@ Most notably:
    composer require zepfietje/laravel-stubs --dev
    ```
 2. Add the following hook to the scripts in `composer.json` to keep your stubs in sync with updates to this package.
-   ```
+   ```json
    "post-update-cmd": [
        "@php artisan stub:publish --force"
    ]
