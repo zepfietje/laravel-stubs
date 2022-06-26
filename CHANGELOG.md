@@ -6,6 +6,7 @@
 
 - Inbound cast stub.
 - Scope stub.
+- View component stub.
 
 ## [3.1.0] - 2022-06-26
 
