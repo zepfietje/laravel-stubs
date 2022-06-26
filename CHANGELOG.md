@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.2.0] - 2022-06-26
+
+### Added
+
+- Inbound cast stub.
+
 ## [3.1.0] - 2022-06-26
 
 ### Changed
@@ -109,6 +115,7 @@
 
 - Customized stubs.
 
+[3.2.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/3.2.0
 [3.1.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/3.1.0
 [3.0.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/3.0.0
 [2.6.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.6.0
