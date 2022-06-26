@@ -12,6 +12,7 @@
 
 - Update console stub.
 - Add `authorize` method to request stub.
+- Specify response type in middleware stub.
 
 ## [3.1.0] - 2022-06-26
 
