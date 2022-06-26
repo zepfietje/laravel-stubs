@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.1.0] - 2022-06-26
+
+### Changed
+
+- Remove `guarded` property from model stub.
+
 ## [3.0.0] - 2022-02-18
 
 ### Added
@@ -103,6 +109,7 @@
 
 - Customized stubs.
 
+[3.1.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/3.1.0
 [3.0.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/3.0.0
 [2.6.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.6.0
 [2.5.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/2.5.0
