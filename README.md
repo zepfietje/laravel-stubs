@@ -14,7 +14,7 @@ Most notably:
 
 1. Install this package.
    ```console
-   $ composer require zepfietje/laravel-stubs --dev
+   composer require zepfietje/laravel-stubs --dev
    ```
 2. Add the following hook to the scripts in `composer.json` to keep your stubs in sync with updates to this package.
    ```
@@ -24,7 +24,7 @@ Most notably:
    ```
 3. Publish the stubs.
    ```console
-   $ php artisan stub:publish
+   php artisan stub:publish
    ```
 
 ## Starware
