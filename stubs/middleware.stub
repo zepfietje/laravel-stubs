@@ -9,7 +9,7 @@ use Illuminate\Http\Response;
 
 class {{ class }}
 {
-    public function handle(Request $request, Closure $next): Response|RedirectResponse
+    public function handle(Request $request, Closure $next): mixed
     {
         return $next($request);
     }
