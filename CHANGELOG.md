@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.2.1] - 2022-07-27
+
+### Fixed
+
+- Update middleware return type declaration.
+- Add `guarded` property back to model.
+
 ## [3.2.0] - 2022-06-26
 
 ### Added
@@ -125,6 +132,7 @@
 
 - Customized stubs.
 
+[3.2.1]: https://github.com/zepfietje/laravel-stubs/releases/tag/3.2.1
 [3.2.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/3.2.0
 [3.1.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/3.1.0
 [3.0.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/3.0.0
