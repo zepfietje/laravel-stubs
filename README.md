@@ -1,6 +1,5 @@
 [![Packagist Version](https://img.shields.io/packagist/v/zepfietje/laravel-stubs)](https://packagist.org/packages/zepfietje/laravel-stubs)
 [![Packagist Downloads](https://img.shields.io/packagist/dt/zepfietje/laravel-stubs)](https://packagist.org/packages/zepfietje/laravel-stubs/stats)
-[![Starware](https://img.shields.io/badge/⭐-Starware-f5a91a?labelColor=black)](https://github.com/zepfietje/starware)
 
 # Laravel Stubs
 
@@ -26,9 +25,3 @@ Most notably:
    ```bash
    php artisan stub:publish
    ```
-
-## Starware
-
-Laravel Stubs is Starware.  
-This means you're free to use the project, as long as you star its GitHub repository.  
-Your appreciation makes us grow and glow up. ⭐
