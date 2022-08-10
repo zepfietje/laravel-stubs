@@ -11,17 +11,17 @@ Most notably:
 
 ## Installation
 
-1. Install this package.
+1. Install this package:
    ```bash
    composer require zepfietje/laravel-stubs --dev
    ```
-2. Add the following hook to the scripts in `composer.json` to keep your stubs in sync with updates to this package.
+2. Add the following hook to the scripts in `composer.json` to keep your stubs in sync with updates to this package:
    ```json
    "post-update-cmd": [
        "@php artisan stub:publish --force"
    ]
    ```
-3. Publish the stubs.
+3. Publish the stubs:
    ```bash
    php artisan stub:publish
    ```
