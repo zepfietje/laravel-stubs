@@ -5,6 +5,8 @@ namespace {{ namespace }};
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Mail\Mailable;
+use Illuminate\Mail\Mailables\Content;
+use Illuminate\Mail\Mailables\Envelope;
 use Illuminate\Queue\SerializesModels;
 
 class {{ class }} extends Mailable
@@ -15,8 +17,22 @@ class {{ class }} extends Mailable
     {
     }
 
-    public function build(): self
+    public function envelope(): Envelope
     {
-        return $this->markdown('{{ view }}');
+        return new Envelope(
+            subject: '{{ subject }}',
+        );
+    }
+
+    public function content(): Content
+    {
+        return new Content(
+            markdown: '{{ view }}',
+        );
+    }
+
+    public function attachments(): array
+    {
+        return [];
     }
 }
