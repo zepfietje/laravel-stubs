@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.4.0] - 2022-11-05
+
+### Changed
+
+- Add void return type declaration to migration stubs.
+
 ## [3.3.1] - 2022-10-28
 
 ### Fixed
@@ -144,6 +150,7 @@
 
 - Customized stubs.
 
+[3.4.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/3.4.0
 [3.3.1]: https://github.com/zepfietje/laravel-stubs/releases/tag/3.3.1
 [3.3.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/3.3.0
 [3.2.1]: https://github.com/zepfietje/laravel-stubs/releases/tag/3.2.1
