@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.4.1] - 2023-01-16
+
+### Fixed
+
+- Update middleware return type declaration.
+
 ## [3.4.0] - 2022-11-05
 
 ### Changed
@@ -150,6 +156,7 @@
 
 - Customized stubs.
 
+[3.4.1]: https://github.com/zepfietje/laravel-stubs/releases/tag/3.4.1
 [3.4.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/3.4.0
 [3.3.1]: https://github.com/zepfietje/laravel-stubs/releases/tag/3.3.1
 [3.3.0]: https://github.com/zepfietje/laravel-stubs/releases/tag/3.3.0
